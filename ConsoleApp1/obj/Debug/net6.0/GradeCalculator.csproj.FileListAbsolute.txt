@@ -1,0 +1,15 @@
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\bin\Debug\net6.0\GradeCalculator.exe
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\bin\Debug\net6.0\GradeCalculator.deps.json
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\bin\Debug\net6.0\GradeCalculator.runtimeconfig.json
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\bin\Debug\net6.0\GradeCalculator.dll
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\bin\Debug\net6.0\GradeCalculator.pdb
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\GradeCalculator.csproj.AssemblyReference.cache
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\GradeCalculator.dll
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\refint\GradeCalculator.dll
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\GradeCalculator.pdb
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\Donald1\P\C# INFS122\C#_Grade_Calculator_ConsoleApp\ConsoleApp1\obj\Debug\net6.0\ref\GradeCalculator.dll
